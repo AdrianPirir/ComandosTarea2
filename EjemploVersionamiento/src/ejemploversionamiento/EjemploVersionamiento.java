@@ -18,6 +18,8 @@ public class EjemploVersionamiento {
         System.out.println("Hola mundo");
         int variable = 1;
         int variable2 = 2;
+        
+        int variable3 = 3;
     }
     
 }
