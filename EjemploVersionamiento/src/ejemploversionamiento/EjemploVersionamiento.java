@@ -16,7 +16,8 @@ public class EjemploVersionamiento {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hola mundo");
-        int variable = 1; 
+        int variable = 1;
+        int variable2 = 2;
     }
     
 }
